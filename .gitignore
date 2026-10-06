@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Zip
+Lab1_MNIST_Octavian_Popuiac_79911.ipynb.zip
